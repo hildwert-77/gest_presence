@@ -1,0 +1,43 @@
+ body{
+     border: 1px solid none;
+}
+.nav2{
+    display: flex;
+}
+h3{
+    font-family: 'gabriola';
+    margin: 10px;
+    padding: 20px;
+    font-size: 25px;
+}   
+form{
+    width: "300px";
+    margin: 20px;
+    width: 300px;
+    margin-bottom: 50px;
+    align-items: center;
+}
+input, select{
+    border: 1px solid black;
+    height:35px;
+    width: 250px;
+    padding-right: 10px;
+    border-radius: 5px;
+    font-size: 15px;
+    text-align: center;
+    font-family: 'gabriola';
+    margin-bottom: 10px;
+}
+table{
+    margin: 10px;
+    width: 70%;
+}
+
+td{
+    height: 50px;
+    text-align: center;
+}
+   
+.divSection{
+    display:flex;
+}
